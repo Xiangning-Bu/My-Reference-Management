@@ -5,6 +5,7 @@ import sqlite3
 conn = sqlite3.connect("MyRefs.db")
 c = conn.cursor()
 
+
 c.execute(
     """CREATE TABLE COVID19 (
                 pmid_int integer,
@@ -16,7 +17,6 @@ c.execute(
                 elocationid text
                 )"""
 )
-
 ## search Pubmed with provided keyword and extract PMID lists
 # keyword = input("Enter key word:")
 # print(keyword)
@@ -33,7 +33,7 @@ data = json.loads(source)
 id_list = []
 for id in data["esearchresult"]["idlist"]:
     id_list.append(id)
-print(id_list)
+# print(id_list)
 id_lists = ",".join(id_list)
 # print(id_list)
 ## search with PMID
@@ -44,7 +44,7 @@ with urlopen(
 
     data2 = json.loads(source2)
 
-    with open("pmid20", "w") as f:
+    with open("pmid20.txt", "w") as f:
         json.dump(data2, f)
 
 

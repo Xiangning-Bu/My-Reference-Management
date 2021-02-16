@@ -1,0 +1,643 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "header": {
+            "type": "object",
+            "properties": {
+                "type": {
+                    "type": "string"
+                },
+                "version": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "type",
+                "version"
+            ]
+        },
+        "result": {
+            "type": "object",
+            "properties": {
+                "33581688": {
+                    "type": "object",
+                    "properties": {
+                        "uid": {
+                            "type": "string"
+                        },
+                        "pubdate": {
+                            "type": "string"
+                        },
+                        "epubdate": {
+                            "type": "string"
+                        },
+                        "source": {
+                            "type": "string"
+                        },
+                        "authors": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "authtype": {
+                                            "type": "string"
+                                        },
+                                        "clusterid": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "name",
+                                        "authtype",
+                                        "clusterid"
+                                    ]
+                                }
+                            ]
+                        },
+                        "lastauthor": {
+                            "type": "string"
+                        },
+                        "title": {
+                            "type": "string"
+                        },
+                        "sorttitle": {
+                            "type": "string"
+                        },
+                        "volume": {
+                            "type": "string"
+                        },
+                        "issue": {
+                            "type": "string"
+                        },
+                        "pages": {
+                            "type": "string"
+                        },
+                        "lang": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "nlmuniqueid": {
+                            "type": "string"
+                        },
+                        "issn": {
+                            "type": "string"
+                        },
+                        "essn": {
+                            "type": "string"
+                        },
+                        "pubtype": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "recordstatus": {
+                            "type": "string"
+                        },
+                        "pubstatus": {
+                            "type": "string"
+                        },
+                        "articleids": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "idtype": {
+                                            "type": "string"
+                                        },
+                                        "idtypen": {
+                                            "type": "integer"
+                                        },
+                                        "value": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "idtype",
+                                        "idtypen",
+                                        "value"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "idtype": {
+                                            "type": "string"
+                                        },
+                                        "idtypen": {
+                                            "type": "integer"
+                                        },
+                                        "value": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "idtype",
+                                        "idtypen",
+                                        "value"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "idtype": {
+                                            "type": "string"
+                                        },
+                                        "idtypen": {
+                                            "type": "integer"
+                                        },
+                                        "value": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "idtype",
+                                        "idtypen",
+                                        "value"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "idtype": {
+                                            "type": "string"
+                                        },
+                                        "idtypen": {
+                                            "type": "integer"
+                                        },
+                                        "value": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "idtype",
+                                        "idtypen",
+                                        "value"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "idtype": {
+                                            "type": "string"
+                                        },
+                                        "idtypen": {
+                                            "type": "integer"
+                                        },
+                                        "value": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "idtype",
+                                        "idtypen",
+                                        "value"
+                                    ]
+                                }
+                            ]
+                        },
+                        "history": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "pubstatus": {
+                                            "type": "string"
+                                        },
+                                        "date": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "pubstatus",
+                                        "date"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "pubstatus": {
+                                            "type": "string"
+                                        },
+                                        "date": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "pubstatus",
+                                        "date"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "pubstatus": {
+                                            "type": "string"
+                                        },
+                                        "date": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "pubstatus",
+                                        "date"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "pubstatus": {
+                                            "type": "string"
+                                        },
+                                        "date": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "pubstatus",
+                                        "date"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "pubstatus": {
+                                            "type": "string"
+                                        },
+                                        "date": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "pubstatus",
+                                        "date"
+                                    ]
+                                }
+                            ]
+                        },
+                        "references": {
+                            "type": "array",
+                            "items": {}
+                        },
+                        "attributes": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "pmcrefcount": {
+                            "type": "string"
+                        },
+                        "fulljournalname": {
+                            "type": "string"
+                        },
+                        "elocationid": {
+                            "type": "string"
+                        },
+                        "doctype": {
+                            "type": "string"
+                        },
+                        "srccontriblist": {
+                            "type": "array",
+                            "items": {}
+                        },
+                        "booktitle": {
+                            "type": "string"
+                        },
+                        "medium": {
+                            "type": "string"
+                        },
+                        "edition": {
+                            "type": "string"
+                        },
+                        "publisherlocation": {
+                            "type": "string"
+                        },
+                        "publishername": {
+                            "type": "string"
+                        },
+                        "srcdate": {
+                            "type": "string"
+                        },
+                        "reportnumber": {
+                            "type": "string"
+                        },
+                        "availablefromurl": {
+                            "type": "string"
+                        },
+                        "locationlabel": {
+                            "type": "string"
+                        },
+                        "doccontriblist": {
+                            "type": "array",
+                            "items": {}
+                        },
+                        "docdate": {
+                            "type": "string"
+                        },
+                        "bookname": {
+                            "type": "string"
+                        },
+                        "chapter": {
+                            "type": "string"
+                        },
+                        "sortpubdate": {
+                            "type": "string"
+                        },
+                        "sortfirstauthor": {
+                            "type": "string"
+                        },
+                        "vernaculartitle": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "uid",
+                        "pubdate",
+                        "epubdate",
+                        "source",
+                        "authors",
+                        "lastauthor",
+                        "title",
+                        "sorttitle",
+                        "volume",
+                        "issue",
+                        "pages",
+                        "lang",
+                        "nlmuniqueid",
+                        "issn",
+                        "essn",
+                        "pubtype",
+                        "recordstatus",
+                        "pubstatus",
+                        "articleids",
+                        "history",
+                        "references",
+                        "attributes",
+                        "pmcrefcount",
+                        "fulljournalname",
+                        "elocationid",
+                        "doctype",
+                        "srccontriblist",
+                        "booktitle",
+                        "medium",
+                        "edition",
+                        "publisherlocation",
+                        "publishername",
+                        "srcdate",
+                        "reportnumber",
+                        "availablefromurl",
+                        "locationlabel",
+                        "doccontriblist",
+                        "docdate",
+                        "bookname",
+                        "chapter",
+                        "sortpubdate",
+                        "sortfirstauthor",
+                        "vernaculartitle"
+                    ]
+                },
+                "uids": {
+                    "type": "array",
+                    "items": [
+                        {
+                            "type": "string"
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "33581688",
+                "uids"
+            ]
+        }
+    },
+    "required": [
+        "header",
+        "result"
+    ]
+}
